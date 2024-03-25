@@ -3,20 +3,26 @@ This is a web application for emotion detection using Natural Language Processin
 
 **Features**
 Input Text: Users can input text into the application.
+
 Emotion Prediction: The application predicts the emotion associated with the input text using NLP models.
+
 Multiple Models: The app utilizes both LSTM and logistic regression models for robust emotion detection.
 
 **Technologies Used**
-Flask
-Python
-Natural Language Processing (NLP)
-Long Short-Term Memory (LSTM)
-Logistic Regression
+1) Flask
+2) Python
+3) Natural Language Processing (NLP)
+4) Long Short-Term Memory (LSTM)
+5) Logistic Regression
 
 **Usage**
+
 Clone the repository.
+
 Install the required dependencies.
+
 Run the Flask application (app.py).
+
 Access the application through your web browser.
 
 **How it Works**
